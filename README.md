@@ -1,1 +1,3 @@
 # HR-Analysis
+Analyzed employee data for a company of 15,000 using DAX expressions, revealing a satisfaction rate of 62.13%, with management showing the highest satisfaction levels. The retention rate stands at 76.2%, with the Sales department experiencing the highest work accident rate.
+IT leads in promotions, while the average monthly working hours are 201.05. Identified that handling more than four projects negatively impacts satisfaction, while higher salaries and recent promotions are linked to better satisfaction and retention. These insights guide strategies to enhance productivity, satisfaction, and employee retention.
